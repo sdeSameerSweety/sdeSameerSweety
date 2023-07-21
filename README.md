@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SameerSweety Swain
 ==========================================================================================================================================
-<div align="center"><img src="https://www.canva.com/design/DAFpTXoZmaU/GpL98tLJyREq9O0b2XWQkA/edit?utm_content=DAFpTXoZmaU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"></div>
+
 
 Full Stack Web Developer
 ------------------------
