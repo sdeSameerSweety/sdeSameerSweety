@@ -7,7 +7,7 @@ Full Stack Web Developer
 I worked as an Assistant Civil Engineer for some time, but I decided to switch careers and started learning to code two years ago. I began with HTML, CSS, Tailwind, and JavaScript, and completed three projects using these technologies. However, I discovered a passion for backend development and decided to enroll in an online-based backend web development bootcamp at FunctionUp. During the bootcamp, I gained proficiency in Node.js, Git/GitHub, Bash scripting, Express, MongoDB, AWS S3, Redis, DSA, DP, LLD, and HLD, and completed five projects, including a blogging site, open internship site, short URL site, book management site, and product management site. Currently, I am freelancing on Fiverr and teaching DCA, BCA, MCA, and B.Tech Tier-3 college students about backend and frontend development. Additionally, I am the founder of Bittobyte Community, an open-source IT/CSE resouces sharing community with over 1024 IT/CSE students and working professionals. I am proud to be a part of this community and we are always looking for new members to join us and make it a larger open-source IT/CSE resources sharing community.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [SameerSweetyFolio](http://bittobyte.tech)
+* 🖥️  See my portfolio at [SameerSweetyFolio](http://sameerswain.me)
 * ✉️  You can contact me at [sameerswain.gse.23@outlook.com](mailto:sameerswain.gse.23@outlook.com)
 * 🚀  I'm currently working on [Full Stack SignUp WebPage](http://signup.bittobyte.tech)
 * 🧠  I'm learning DevOps And Devrel
